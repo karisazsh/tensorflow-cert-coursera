@@ -1,5 +1,3 @@
-tensorflow==2.7.0
-scikit-learn==1.0.1
-pandas==1.1.5
-matplotlib==3.2.2
-seaborn==0.11.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:4155f030364c4074d4949e015eef8c4d79f961f6ce6ba670d1cb3294f8e9c991
+size 89
